@@ -8,6 +8,8 @@ This is an AI that cinematicly follows you with the developer camera, its far fr
 
 ## Author
 👤 **AdyStudios**
+* Website: https://homiadam07.wixsite.com/adystudios
+* Github: [@AdyStudios](https://github.com/AdyStudios)
 
 
 This project is under [GPL v3](https://github.com/D1strict/AL-JobTracker/blob/main/LICENSE) licensed.
